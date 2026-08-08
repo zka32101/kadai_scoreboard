@@ -58,3 +58,4 @@ local.properties
 private_key.pem
 serviceAccountKey.json
 .firebase/
+build2/
